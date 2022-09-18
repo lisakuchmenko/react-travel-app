@@ -2,7 +2,7 @@
 
 Travel Agency Booking App 
 
-[Live demo](https://guileless-heliotrope-9cdf4c.netlify.app/sign-in) on Netlify
+[Live demo](https://guileless-heliotrope-9cdf4c.netlify.app) on Netlify
 
 ## About
 
